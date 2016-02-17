@@ -1,0 +1,2 @@
+Setup git server on VMWare server.
+Offer pair-coding/basic help to students.
